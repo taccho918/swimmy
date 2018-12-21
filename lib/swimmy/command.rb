@@ -10,4 +10,3 @@ module Swimmy
   # require "#{dir}/hide_defalts"
   end
 end
-
